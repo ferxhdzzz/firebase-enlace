@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116213818109",
+    "project_id": "fir-project-ef0fb",
+    "storage_bucket": "fir-project-ef0fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116213818109:android:7a0a41a0f69ac79fbc1494",
+        "android_client_info": {
+          "package_name": "fernanda.hernandez.registrofirebaseferrr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCAIz19vrlFwF0gEk6Y4jhOuKvZgQiCBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
